@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Serhiy and I work for [@DataArt](https://www.dataart.com/) as iOS Engineer!
+I'm Serhiy, and I work for [@DataArt](https://www.dataart.com/) as an iOS Engineer!
 
 <img src="https://github-readme-stats.vercel.app/api?username=Disconnecter&show_icons=true&count_private=true" alt="Disconnecter" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disconnecter&hide=html" alt="Disconnecter" />
